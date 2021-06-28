@@ -1,0 +1,18 @@
+{
+  "trigger": true,
+  "modules": [
+    "add-to-group"
+  ],
+  "parentResource": "amplifydemo617aeef6",
+  "functionName": "amplifydemo617aeef6PostConfirmation",
+  "resourceName": "amplifydemo617aeef6PostConfirmation",
+  "parentStack": "auth",
+  "triggerEnvs": [],
+  "triggerDir": "C:\\Users\\kamha\\AppData\\Roaming\\npm\\node_modules\\@aws-amplify\\cli\\node_modules\\amplify-category-auth\\provider-utils\\awscloudformation\\triggers\\PostConfirmation",
+  "triggerTemplate": "PostConfirmation.json.ejs",
+  "triggerEventPath": "PostConfirmation.event.json",
+  "roleName": "amplifydemo617aeef6PostConfirmation",
+  "skipEdit": true,
+  "GROUP": "profilesGroup",
+  "enableCors": false
+}

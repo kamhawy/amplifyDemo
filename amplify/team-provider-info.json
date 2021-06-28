@@ -17,6 +17,23 @@
           "appId": "dt4epeiqezwe8",
           "type": "cicd"
         }
+      },
+      "function": {
+        "amplifydemo617aeef6CustomMessage": {
+          "REDIRECTURL": "",
+          "EMAILSUBJECT": "Confirm Account",
+          "EMAILMESSAGE": "Please confirm your email account",
+          "deploymentBucketName": "amplify-amplifydemo-dev-213954-deployment",
+          "s3Key": "amplify-builds/amplifydemo617aeef6CustomMessage-4a674367367134345a4d-build.zip"
+        },
+        "amplifydemo617aeef6PostConfirmation": {
+          "GROUP": "profilesGroup",
+          "deploymentBucketName": "amplify-amplifydemo-dev-213954-deployment",
+          "s3Key": "amplify-builds/amplifydemo617aeef6PostConfirmation-777a5a7a336554567a7a-build.zip"
+        }
+      },
+      "auth": {
+        "amplifydemo617aeef6": {}
       }
     }
   }
