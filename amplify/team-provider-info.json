@@ -30,6 +30,10 @@
           "GROUP": "profilesGroup",
           "deploymentBucketName": "amplify-amplifydemo-dev-213954-deployment",
           "s3Key": "amplify-builds/amplifydemo617aeef6PostConfirmation-777a5a7a336554567a7a-build.zip"
+        },
+        "AdminQueriesf4081668": {
+          "deploymentBucketName": "amplify-amplifydemo-dev-213954-deployment",
+          "s3Key": "amplify-builds/AdminQueriesf4081668-54614e586a7338634843-build.zip"
         }
       },
       "auth": {
